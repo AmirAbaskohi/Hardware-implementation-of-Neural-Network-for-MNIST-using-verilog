@@ -1,5 +1,5 @@
-# Hardware-implementation-of-Neural-Network-for-fashion-MNIST-using-verilog
-This is a hardware implementation of Neural Network for fashion MNIST using verilog.
+# Hardware-implementation-of-Neural-Network-for-MNIST-using-verilog
+This is a hardware implementation of Neural Network for MNIST using verilog.
 
 # Introduction
 
@@ -11,4 +11,4 @@ The output of each neuron in hidden layers is the weighted sum of the neuron inp
 
 𝒙𝒊and 𝒚𝒋are the input and output values of the neuron. 𝑾𝒊𝒋and 𝒃𝒋showsthe value ofneuronweights and biases, respectively. Function f (.)represents the nonlinear activationfunction.
 
-oday, artificial neural networks are used in various criticalapplications such as classification,pattern recognition,clustering, optimization, etc. Image classificationis the process of analyzing the image toidentify the 'class'of it.
+Today, artificial neural networks are used in various criticalapplications such as classification,pattern recognition,clustering, optimization, etc. Image classificationis the process of analyzing the image toidentify the 'class'of it.
